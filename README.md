@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dev-prog
+- 👀 I’m interested in python and C++ development
+- 🌱 I’m currently learning game dev
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ? Use this e-mail 'boristraore225@gmail.com'
